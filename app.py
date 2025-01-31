@@ -6,7 +6,7 @@ nltk.download("punkt_tab")
 
 
 def main():
-    st.title("News Article Extractor")
+    st.title("Valuvis News Article Extractor")
 
     # Input for the user to enter the article URL
     url = st.text_input("Enter a news URL:")
